@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🎓 Currently trying to learn kubernetes to become a master of none jack of all trades.
+🎓 Currently trying to learn kubernetes to become a master of none jack of all trades
 
 ♥️ I enjoy studying about cybersecurity in my free time and working on my pet projects
 
